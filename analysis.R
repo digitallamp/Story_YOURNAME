@@ -1,0 +1,1 @@
+mydata <- read.table("mydata.txt", header = TRUE)
